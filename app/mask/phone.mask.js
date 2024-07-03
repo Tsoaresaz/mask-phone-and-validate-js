@@ -14,11 +14,11 @@ export const PhoneMask = (element) => {
     }
 
     if (value.length > 2) {
-        formattedValue += ')' + value.substring(2, 6);
+        formattedValue += ')' + value.substring(2, 7);
     }
 
     if (value.length > 6) {
-        formattedValue += '-' + value.substring(6, 11);
+        formattedValue += '-' + value.substring(7, 11);
     }
 
     console.log('formattedValue: ', formattedValue);
