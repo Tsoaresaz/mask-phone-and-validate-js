@@ -1,4 +1,5 @@
 /**
+ * @author Thiago Soares
  * @description Informar o ID do input de telefone que terá a mascara
  * @param {*} elementId 
  */

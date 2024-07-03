@@ -1,3 +1,7 @@
+/**
+ * @author Thiago Soares
+ */
+
 import { ValidatePhone } from './validate/phoneValidate.js';
 import { PhoneMask } from './mask/phone.mask.js'
 
